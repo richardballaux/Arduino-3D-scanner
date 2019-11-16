@@ -1,19 +1,7 @@
-%      ******************************************************************
-%      *                                                                *
-%      *                                                                *
-%      *    Example MATLAB program that receives data from an Arduino   *
-%      *                                                                *
-%      *                                                                *
-%      ******************************************************************
-
-
-%
 % NOTE: While this is running, you can not re-program the Arduino.  You must exit 
 % this MATLAB program before downloading a sketch to the Arduino.
 %
 
-
-%
 % Set the name of the serial port.  Determine the name as follows:
 %	1) From Arduino's "Tools" menu, select "Port"
 %	2) It will show you which Port is used to connect to the Arduino 

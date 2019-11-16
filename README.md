@@ -1,5 +1,5 @@
 # Arduino-3D-scanner
-This was a project for my Principles of Engineering Class during my fall semester at Olin College of Engineering, Boston.
+This was a project for my Principles of Engineering Class during my fall semester in 2018 at Olin College of Engineering, Boston.
 
 Me and my partner Viktor Deturck created a 3D scanner. We used an Arduino to read data from an IR sensor, which we first calibrated. Next we sent over the array of data to a MATLAB-script that plotted it live.
 

@@ -50,4 +50,4 @@ We chose to visualize our data in MATLAB because we knew that it has a built in 
 ### The final result
 Here we scanned an R made out of cardboard which stood in front of a flat carboard sheet. Here the x-axis is flipped in the wrong direction.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TDlxW20hSGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Video](https://img.youtube.com/vi/TDlxW20hSGY/0.jpg)](https://www.youtube.com/watch?v=TDlxW20hSGY)
